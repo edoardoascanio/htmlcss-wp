@@ -33,10 +33,11 @@ ul li{
 }
 
 .main-top{
-    Height: 500px;
-    Background-color: rgb(224, 231, 84);
+    Height: 450px;
     Margin-top: 60px;
     border-radius: 20px;
+    background-image: url(img/banner.jpg);
+    background-position: center;
 }
 
 .main-bot{
