@@ -40,10 +40,9 @@ ul li{
     border-radius: 20px;
 }
 
-#main-top{
+#top-img{
     Height: 450px;
     Margin-top: 60px;
-    padding: 280px 50px 50px 50px;
     border-radius: 20px;
     background-image: url(img/banner.jpg); 
     background-position: center;      
@@ -53,7 +52,8 @@ ul li{
     font-size: 20px;
     font-family: 'Roboto', Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     color: ivory;
-    width: 55%;
+    width: 60%;
+    padding: 280px 50px 0 50px;
 }
 
 .title-bot h1{ 
