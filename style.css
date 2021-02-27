@@ -1,0 +1,85 @@
+*{
+    Margin: 0;
+    Padding: 0;
+    Box-sizing: border-box;
+}
+
+Body{
+    Padding: 20px;
+    Background-color: white;
+}
+
+body > *{
+    width: 70%;
+    margin: 20px;
+    margin: auto;
+}
+
+
+header img{
+    width: 15%;
+}
+
+nav ul{
+    margin-top: 20px;
+    list-style: none;
+}
+
+ul li{
+    float: left;
+    color: gray;
+    margin:0 20px 0 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+.main-top{
+    Height: 500px;
+    Background-color: rgb(224, 231, 84);
+    Margin-top: 60px;
+    border-radius: 20px;
+}
+
+.main-bot{
+    width: 100%;
+    padding: 10px;
+    Background-color: rgb(19, 81, 225);
+    content: "";
+    display: table;
+    clear: both;
+}
+
+h1{ 
+    margin-top: 20px;
+    height: 80px;
+    Background-color: lightblue;
+}
+
+Aside:first-child{
+    float: left;
+    Width: 20%;
+    Height: 500px;
+    margin: 10px;
+    Background-color: lightblue;
+}
+
+Aside:last-child{
+    float: right;
+    Width: 20%;
+    Height: 500px;
+    margin: 10px;
+    Background-color: lightblue;
+}
+
+article{
+    float: left;
+    Width: 54%;
+    Height: 500px;
+    margin: 10px;
+    Background-color: lightblue;
+}
+
+Footer{
+    Height: 45px;
+    Margin-top: 5px;
+    Background-color: purple;
+}
