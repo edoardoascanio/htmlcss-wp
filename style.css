@@ -4,7 +4,7 @@
     Box-sizing: border-box;
 }
 
-Body{
+body{
     Padding: 20px;
     Background-color: white;
 }
@@ -86,8 +86,8 @@ aside:last-child{
 
 article{
     float: left;
-    Width: calc(60% - 20px);
-    margin: 0 10px 0 10px;
+    Width: calc(60% - 2%);
+    margin:0 1% 0 1%;
 }
 
 #left-img,#middle-img,#right-img{
